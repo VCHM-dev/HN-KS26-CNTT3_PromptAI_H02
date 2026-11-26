@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:** Nguyễn Thái Hoàng
 - **Lớp:** CNTT3
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/VCHM-dev/HN-KS26-CNTT3_PromptAI_H02
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
